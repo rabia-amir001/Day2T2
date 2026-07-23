@@ -1,0 +1,14 @@
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\bin\Debug\net8.0\DictionaryPhonebookApp.exe
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\bin\Debug\net8.0\DictionaryPhonebookApp.deps.json
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\bin\Debug\net8.0\DictionaryPhonebookApp.runtimeconfig.json
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\bin\Debug\net8.0\DictionaryPhonebookApp.dll
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\bin\Debug\net8.0\DictionaryPhonebookApp.pdb
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\obj\Debug\net8.0\DictionaryPhonebookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\obj\Debug\net8.0\DictionaryPhonebookApp.AssemblyInfoInputs.cache
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\obj\Debug\net8.0\DictionaryPhonebookApp.AssemblyInfo.cs
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\obj\Debug\net8.0\DictionaryPhonebookApp.csproj.CoreCompileInputs.cache
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\obj\Debug\net8.0\DictionaryPhonebookApp.dll
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\obj\Debug\net8.0\refint\DictionaryPhonebookApp.dll
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\obj\Debug\net8.0\DictionaryPhonebookApp.pdb
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\obj\Debug\net8.0\DictionaryPhonebookApp.genruntimeconfig.cache
+C:\Users\Rana Zohaik\source\repos\DictionaryPhonebookApp\DictionaryPhonebookApp\obj\Debug\net8.0\ref\DictionaryPhonebookApp.dll
